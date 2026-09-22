@@ -8,8 +8,8 @@ def main():
     # In multiplaying x is used for output Q while the * is the actual multiplication sign.
     print("6 * 3 = {}".format(6 * 3))
     print("7 / 2 = {}".format(7 / 2))
-    print("2 ^ 3 = {}".format(2**3))  # This is exponent.
-    print("16 ** 0.5 = {}".format(16**0.5))  # This is square root.
+    print("2 ^ 3 = {}".format(2 ** 3))  # This is exponent.
+    print("16 ** 0.5 = {}".format(16 ** 0.5))  # This is square root.
     print(
         "1+3*4 = {}".format(1 + 3 * 4)
     )  # BEDMAS rule is used here. Multiplication is done first then addition.
